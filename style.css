@@ -1,0 +1,19 @@
+body{
+    background-color: lightgreen;
+}
+
+#score{
+    font-size: 25px;
+    margin-left: 100px;
+    float:left;
+}
+#time{
+    font-size: 25px;
+    margin-right: 100px;
+    float:right;
+}
+
+#drawing{
+color:red ;
+}
+
